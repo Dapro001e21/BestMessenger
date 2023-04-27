@@ -1,0 +1,79 @@
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\bin\Debug\BestMessenger.exe.config
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\bin\Debug\BestMessenger.exe
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\bin\Debug\BestMessenger.pdb
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\bin\Debug\EntityFramework.dll
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\bin\Debug\FontAwesome.WPF.dll
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\bin\Debug\EntityFramework.xml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\bin\Debug\FontAwesome.WPF.xml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.AssemblyReference.cache
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Views\MainWindow.g.cs
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\App.g.cs
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger_MarkupCompile.cache
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger_MarkupCompile.lref
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Views\MainWindow.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.g.resources
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.Properties.Resources.resources
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.GenerateResource.cache
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.CoreCompileInputs.cache
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.CopyComplete
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.exe
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.pdb
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\BestMessenger.Migrations.Initial.resources
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\CustomTextBox.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\App.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\WindowBorderStyle.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\MemberListStyle.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\ChatStyle.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Views\AddNewFriendWindow.g.cs
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Views\AddNewFriendWindow.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\WindowTopBorderBtnStyle.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\AddMemberListStyle.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Views\AuthorizationWindow.g.cs
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Views\RegistrationWindow.g.cs
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Views\AuthorizationWindow.baml
+C:\Users\feday\source\repos\BestMessenger\BestMessenger\obj\Debug\Views\RegistrationWindow.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\BestMessenger.exe.config
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\BestMessenger.exe
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\BestMessenger.pdb
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\EntityFramework.dll
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\FontAwesome.WPF.dll
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\EntityFramework.xml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\FontAwesome.WPF.xml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.AssemblyReference.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\AddMemberListStyle.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\ChatStyle.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\CustomTextBox.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\MemberListStyle.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\WindowBorderStyle.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Infrastructure\Resources\WindowTopBorderBtnStyle.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Views\AddNewFriendWindow.g.cs
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Views\AuthorizationWindow.g.cs
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Views\MainWindow.g.cs
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Views\RegistrationWindow.g.cs
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\App.g.cs
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger_MarkupCompile.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger_MarkupCompile.lref
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\App.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Views\AddNewFriendWindow.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Views\AuthorizationWindow.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Views\MainWindow.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\Views\RegistrationWindow.baml
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.g.resources
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.Migrations.Initial.resources
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.Properties.Resources.resources
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.GenerateResource.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.csproj.CopyComplete
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.exe
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\obj\Debug\BestMessenger.pdb
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\Models.exe
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\Models.pdb
+D:\Projects\Visual Studios Projects\C#\BestMessenger\BestMessenger\bin\Debug\Models.exe.config

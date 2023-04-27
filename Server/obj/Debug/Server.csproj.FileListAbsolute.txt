@@ -1,0 +1,12 @@
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\bin\Debug\Server.exe.config
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\bin\Debug\Server.exe
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\bin\Debug\Server.pdb
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\obj\Debug\Server.exe
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\obj\Debug\Server.pdb
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\bin\Debug\Models.exe
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\bin\Debug\Models.pdb
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\bin\Debug\Models.exe.config
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Server\obj\Debug\Server.csproj.CopyComplete

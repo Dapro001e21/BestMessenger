@@ -1,0 +1,8 @@
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Models\bin\Debug\Models.exe.config
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Models\bin\Debug\Models.exe
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Models\bin\Debug\Models.pdb
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Models\obj\Debug\Models.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Models\obj\Debug\Models.exe
+D:\Projects\Visual Studios Projects\C#\BestMessenger\Models\obj\Debug\Models.pdb
